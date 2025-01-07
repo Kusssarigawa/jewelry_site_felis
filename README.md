@@ -25,7 +25,7 @@ https://mrglk.github.io/projectShop/index.html
 ### Запуск проекта
 
 ```
-git clone https://github.com/mrglk/projectShop.git
+[git clone https://github.com/Kusssarigawa/jewelry_site_felis.git]
 cd projectShop
 npm install
 npm start
